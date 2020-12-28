@@ -1,3 +1,5 @@
-numpy
 joblib
 matplotlib
+numpy
+sklearn
+pandas
